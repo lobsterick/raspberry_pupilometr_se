@@ -13,7 +13,7 @@ W poniższych sekcjach omówione zostaną m.in. kwestie techniczne, wykonanie i 
   * [Pupilometria](#Pupilometria)
   * [Budowa pupilometru](#Budowa-pupilometru)
 - [Wykonanie](#Wykonanie)
-  * [Elementy układu](#Elementy-układu)
+  * [Elementy układu](#elementy-uk%C5%82adu)
   * [Konstrukcja okularów pomiarowych](#konstrukcja-okular-w-pomiarowych)
 - [Przeprowadzanie procedury pomiaru ze stymulacją](#przeprowadzanie-procedury-pomiaru-ze-stymulacj-)
 - [Oprogramowanie układu rejestrującego](#oprogramowanie-uk-adu-rejestruj-cego)
