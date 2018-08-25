@@ -10,18 +10,18 @@ W poniższych sekcjach omówione zostaną m.in. kwestie techniczne, wykonanie i 
 # Spis treści
 - [Podstawy naukowe](#podstawy-naukowe)
   * [Źrenica](#Źrenica)
-  * [Pupilometria](#Pupilometria)
-  * [Budowa pupilometru](#Budowa-pupilometru)
-- [Wykonanie](#Wykonanie)
+  * [Pupilometria](#pupilometria)
+  * [Budowa pupilometru](#budowa-pupilometru)
+- [Wykonanie](#wykonanie)
   * [Elementy układu](#elementy-uk%C5%82adu)
-  * [Konstrukcja okularów pomiarowych](#konstrukcja-okular-w-pomiarowych)
-- [Przeprowadzanie procedury pomiaru ze stymulacją](#przeprowadzanie-procedury-pomiaru-ze-stymulacj-)
-- [Oprogramowanie układu rejestrującego](#oprogramowanie-uk-adu-rejestruj-cego)
-  * [Część ustawień wstępnych](#cz----ustawie--wst-pnych)
-  * [Część rejestracji ze stymulacją](#cz----rejestracji-ze-stymulacj-)
-  * [Część obróbki i pomiarów](#cz----obr-bki-i-pomiar-w)
-  * [Część prezentacji i zapisu](#cz----prezentacji-i-zapisu)
-- [Przykładowe badania](#przyk-adowe-badania)
+  * [Konstrukcja okularów pomiarowych](#konstrukcja-okularów-pomiarowych)
+- [Przeprowadzanie procedury pomiaru ze stymulacją](#przeprowadzanie-procedury-pomiaru-ze-stymulacją)
+- [Oprogramowanie układu rejestrującego](#oprogramowanie-układu-rejestrującego)
+  * [Część ustawień wstępnych](#część-ustawień-wstępnych)
+  * [Część rejestracji ze stymulacją](#część-rejestracji-ze-stymulacją)
+  * [Część obróbki i pomiarów](#część-obróbki-i-pomiarów)
+  * [Część prezentacji i zapisu](#część-prezentacji-i-zapisu)
+- [Przykładowe badania](#przykładowe-badania)
 
 
 # Podstawy naukowe
@@ -83,7 +83,7 @@ W tej części opisane zostały praktyczne wskazówki wykonania układu pomiarow
 ## Elementy układu
 * **Raspberry Pi 3B**
 
-Istnieje możliwość wykorzystania innego układu z rodziny Raspberry Pi, jednak może powodować to problemy z kopatybilnością bądź szybkością działania - więcej na ten temat w punkcie "[Przykładowe badania](#przyk-adowe-badania)".
+Istnieje możliwość wykorzystania innego układu z rodziny Raspberry Pi, jednak może powodować to problemy z kopatybilnością bądź szybkością działania - więcej na ten temat w punkcie "[Przykładowe badania](#przykładowe-badania)".
 
 * **Raspberry Pi NoIR Camera HD v2 8MPx**
 
@@ -91,7 +91,7 @@ Wybór tej kamery podyktowany był wysoką rozdzielczość układu, dużą szybk
 
 * **Google CardBoard**
 
-W tym projekcie wykorzystana została pierwsza wersja tych okularów. W punkcie "[Konstrukcja okularów pomiarowych](#konstrukcja-okular-w-pomiarowych)" omówione zostały modyfikacje przeprowadzone w celu lepszego dostosowania okularów do pomiarów pupilometrycznych.
+W tym projekcie wykorzystana została pierwsza wersja tych okularów. W punkcie "[Konstrukcja okularów pomiarowych](#konstrukcja-okularów-pomiarowych)" omówione zostały modyfikacje przeprowadzone w celu lepszego dostosowania okularów do pomiarów pupilometrycznych.
 
 * **Dioda IR oraz LED**
 
@@ -307,7 +307,7 @@ Ze względu na problem, który pojawił się podczas dłuższych badań, czyli m
 </p></br>
 
 # Przykładowe badania
-W celu sprawdzenia poprawności działania układu, wykonano próbne pomiary dla najważniejszych z punktu widzenia urządzenia opcji. Wszystkie z nich zostały przeprowadzone zgodnie z protokołem zaprezentowanym w punkcie "[Przeprowadzanie procedury pomiaru ze stymulacją](#przeprowadzanie-procedury-pomiaru-ze-stymulacj-)". 
+W celu sprawdzenia poprawności działania układu, wykonano próbne pomiary dla najważniejszych z punktu widzenia urządzenia opcji. Wszystkie z nich zostały przeprowadzone zgodnie z protokołem zaprezentowanym w punkcie "[Przeprowadzanie procedury pomiaru ze stymulacją](#przeprowadzanie-procedury-pomiaru-ze-stymulacją)". 
 
 **Pierwsza** z nich dotyczyła rejestracji statycznej oka bez zadawania stymulacji. W tym celu przeprowadzono badanie przy użyciu funkcji programu nostimulation z czasem 5 sekund. Wynik badania zaprezentowano poniżej.
 
