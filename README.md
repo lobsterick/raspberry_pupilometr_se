@@ -5,7 +5,7 @@ Projekt "**Pupilometr SE** *(Single-Eye)*" zakłada stworzenie własnego pupilom
 
 W poniższych sekcjach omówione zostaną m.in. kwestie techniczne, wykonanie i oprogramowanie okularów pomiarowych oraz funkcje programu. Jeśli preferujesz bardziej wizualne przedstawienie tematyki tego projektu, zachęcam do obejrzenia skróconej prezentacji wideo, w której omówione zostało konkretne wykorzystanie powyższego projektu w tematyce rozpoznawania emocji.<br/><br/>
 
-<div style=text-align:center;"> <a href="https://www.youtube.com/watch?v=XXX"> <img src=Pictures\Icon.jpg style="height: 400px"/> </a> </div> 
+<div style=text-align:center;"> <a href="https://www.youtube.com/watch?v=PXxerWEmi3k"> <img src=Pictures\Icon.jpg style="height: 400px"/> </a> </div> 
 
 # Spis treści
 - [Podstawy naukowe](#podstawy-naukowe)
